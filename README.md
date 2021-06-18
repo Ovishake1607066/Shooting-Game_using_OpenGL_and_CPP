@@ -14,3 +14,4 @@ In the gun game mode the bullets are auto reloaded after firing 5 bullets or mid
 
 Here the bow and the balloons are made with bezier curves. Textures are used on the sky, field and the walls. The rotational target is made with 3d triangles The other objects are made with 3d cubes.
 
+![git](https://user-images.githubusercontent.com/45833229/122544621-ce2cc880-d04e-11eb-8a83-071b4ee3572d.PNG)
