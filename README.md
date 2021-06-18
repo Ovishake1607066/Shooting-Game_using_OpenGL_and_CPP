@@ -1,4 +1,6 @@
 # Shooting-Game_using_OpenGL_and_CPP
+
+Video Link: https://youtu.be/9BhcFm9fYmM
 I have developed a shooting game in opengl as my academic project. Here A player can play both in the gun game or arrow game mode. Here the game can be played in sunny weather mode and winter weather mode. Here 5 levels are maintained. Firstly on basic mode if the bullet or arrow has targeted on red then the player will receive 10 points and if the bullet or arrow has targeted on inner white then 9, if blue the 8 and if targeted on outer white then 7 points will be given as described also in the scene.
 
 Then on easy mode, if the bullet or arrow has targeted the score marks as described on the scene a player will get that distinct point.
